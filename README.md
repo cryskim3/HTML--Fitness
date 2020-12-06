@@ -18,6 +18,9 @@
   - User base: General Users; Service Provider Users; Admins
   - Product Type: Fitness Program Membership, Services and Products
 
+## Preview
+<img src = WebPreView.png>
+
 ## Use Case Diagram
 
 Moqups URL: https://app.moqups.com/YyMjjcMyRD/view/page/a2643d858
